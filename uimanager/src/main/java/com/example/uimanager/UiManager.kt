@@ -11,7 +11,7 @@ class UiManager : Application(){
 //        }
 
         fun sendText(): String{
-            return "from library"
+            return "from library joseph"
         }
 
     }
